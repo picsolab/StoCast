@@ -1,0 +1,6 @@
+{
+	"demo_vars": ["AGE", "PTEDUCAT", "APOE4_0", "APOE4_1", "APOE4_2", "PTGENDER_Female", "PTGENDER_Male", "PTETHCAT_Hisp/Latino", "PTETHCAT_Not Hisp/Latino", "PTETHCAT_Unknown", "PTRACCAT_Am Indian/Alaskan", "PTRACCAT_Asian", "PTRACCAT_Black", "PTRACCAT_Hawaiian/Other PI", "PTRACCAT_More than one", "PTRACCAT_Unknown", "PTRACCAT_White", "PTMARRY_Divorced", "PTMARRY_Married", "PTMARRY_Never married", "PTMARRY_Unknown", "PTMARRY_Widowed"], 
+	"input_x_vars": ["Hippocampus", "EcogSPLang", "Fusiform", "TRABSCOR", "EcogSPPlan", "EcogPtMem", "EcogPtLang", "EcogSPTotal", "EcogPtDivatt", "ADAS11", "EcogSPVisspat", "WholeBrain", "EcogSPMem", "Entorhinal", "RAVLT.learning", "mPACCdigit", "RAVLT.perc.forgetting", "EcogPtTotal", "FAQ", "EcogPtPlan", "ICV", "ADASQ4", "RAVLT.forgetting", "LDELTOTAL", "mPACCtrailsB", "MidTemp", "MOCA", "Ventricles", "EcogPtVisspat", "CDRSB", "RAVLT.immediate", "EcogSPDivatt", "MMSE", "ADAS13", "EcogPtOrgan"], 
+	"input_y_vars": ["DX_CN", "DX_MCI", "DX_Dementia"], 
+	"input_dt_vars": ["DeltaT"]
+}

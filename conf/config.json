@@ -1,0 +1,9 @@
+{
+	"n_h": 32,
+	"n_z": 32,
+	"batch_size": 32,
+	"num_epochs": 150,
+	"learning_rate": 5e-4,
+	"decay_rate": 1.0,
+	"model": "spvrnn_downstream"
+}
