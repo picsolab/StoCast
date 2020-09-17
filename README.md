@@ -13,4 +13,4 @@ Please install the required packages by pip3 install -r requirements
 3. Save model configuration in `'config.json'`.
 
 # Citation
-coming
+Teng, Xian, Sen Pei, and Yu-Ru Lin. "StoCast: Stochastic Disease Forecasting with Progression Uncertainty." IEEE Journal of Biomedical and Health Informatics (2020).
